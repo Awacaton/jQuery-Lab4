@@ -1,0 +1,31 @@
+#addItem{
+    width: 400px;
+    border: 1px solid black;
+    margin: 20px 0px;
+}
+
+#inputUser{
+    
+    font-weight: lighter;
+    font-size: 20px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    
+}
+
+#addCheck{
+    padding: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#addDelete{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.check{
+    text-decoration: line-through;
+}
+
